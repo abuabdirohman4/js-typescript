@@ -2,3 +2,4 @@
 let myType;
 myType = 'hello';
 myType = 123;
+q;
