@@ -7,4 +7,3 @@ let myType: CustomType;
 
 myType = 'hello';
 myType = 123;
-q
